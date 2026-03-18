@@ -22,7 +22,7 @@ and extract it.
 
 From [WinGet] (ADB and other dependencies will be installed alongside scrcpy):
 
-```bash
+```python
 winget install --exact Genymobile.scrcpy
 ```
 
